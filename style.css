@@ -1,0 +1,40 @@
+body
+{
+	background: cadetblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgba(235, 233, 233, 0.979);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#answer
+{
+	width: 60%;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#num1_heading
+{
+	color:white;
+}
+#num2_heading
+{
+	color: white;
+}
